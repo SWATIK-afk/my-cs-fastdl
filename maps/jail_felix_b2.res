@@ -1,0 +1,12 @@
+sound/jail_felix/felix_jumpscareb2.wav
+sound/jail_felix/felix_laugh.wav
+sound/jail_felix/felix_music_cndtbs.wav
+sound/jail_felix/felix_music_cp.wav
+sound/jail_felix/felix_music_pa_mi.wav
+sound/jail_felix/felix_music_toda.wav
+sound/jail_felix/felix_oof.wav
+sound/jail_felix/felix_ult_aliento.wav
+sound/jail_felix/felix_vox.wav
+maps/jail_felix_b2.bsp
+maps/jail_felix_b2.txt
+maps/jail_felix_b2.res
